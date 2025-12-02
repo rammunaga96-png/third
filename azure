@@ -5,6 +5,7 @@ hey GIT AMEND: This command is used to change commit details
 
 
 GIT AMEND: This command is used to change commit details
- git commit --amend  --author “user <email>” : To change author o
+ git commit --amend  --author “user <email>” : To change au
+
 
 
