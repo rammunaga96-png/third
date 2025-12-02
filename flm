@@ -1,5 +1,15 @@
 <h1> hey surya hi this is pleasure to meet u</h1>
 
-http://35.171.203.242:8080/
-http://35.171.203.242:8080/
-http://35.171.203.242:8080/
+GIT AMEND: This command is used to change commit details
+ git commit --amend  --author “user <email>” : To change author of the latest commit
+ git commit  --amend -m “new message” : To change message of the latest commit
+ git commit --amend --no-edit : this command  : It is used to add the staging area files to latest 
+commi
+
+
+
+GIT AMEND: This command is used to change commit details
+ git commit --amend  --author “user <email>” : To change author of the latest commit
+ git commit  --amend -m “new message” : To change message of the latest commit
+ git commit --amend --no-edit : this command  : It is used to add the staging area files to latest 
+commi
