@@ -6,5 +6,5 @@ GIT AMEND: This command is used to change commit details
  git commit --amend --no-edit : this command  : It is used to add the staging area files to latest 
 commi
 
-
+v
 
